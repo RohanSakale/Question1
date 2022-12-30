@@ -3,7 +3,7 @@ const app=express();
 const path=require("path");
 
 app.get("/",function(req,res){
-    res.send("Welcome to GOA");
+    res.send("singham");
 
 });
 
